@@ -1,3 +1,6 @@
+> [!NOTE]
+> Consolidated into https://github.com/awesome-os/chromium-baseline/tree/main/components/just-js
+
 download lo
 use lo to install the runtimes in local folder
 use lo to run the bench
